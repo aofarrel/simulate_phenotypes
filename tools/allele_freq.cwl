@@ -1,7 +1,7 @@
 cwlVersion: v1.1
 class: CommandLineTool
 label: Allele frequency
-doc: This tool calculates allele frequency for variants in a GDS file.
+doc: This is a malformed Dockstore entry for a tool used to calculate allele frequency. This tool should not be used in production. Instead, please refer to the repo that this tool is cloned from.
 $namespaces:
   sbg: https://sevenbridges.com
   dct: http://purl.org/dc/terms/
